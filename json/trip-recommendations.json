@@ -1,0 +1,539 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q833",
+        "short_code": "my",
+        "place_name": "Malaysia",
+        "types": [
+          "view",
+          "food"
+        ],
+        "summary": "beautiful beaches, Nasi goreng for breakfast is amazing!",
+        "date": 853027200
+      },
+      "geometry": {
+        "coordinates": [
+          113.265151,
+          2.720558
+        ],
+        "type": "Point"
+      },
+      "id": "country.10264393709009960"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q869",
+        "short_code": "th",
+        "place_name": "Thailand",
+        "types": [
+          "activity",
+          "food"
+        ],
+        "summary": "Thai massage then lovely seafood and Tom yum kun in Bangkok",
+        "date": 853027200
+      },
+      "geometry": {
+        "coordinates": [
+          101.017437,
+          15.127333
+        ],
+        "type": "Point"
+      },
+      "id": "country.10741565447002910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q33",
+        "short_code": "fi",
+        "place_name": "Finland",
+        "types": [
+          "view",
+          "activity"
+        ],
+        "summary": "Lovely cafes and restaurants, wonderful atmosphere in the winter with street heater",
+        "date": 1041897600
+      },
+      "geometry": {
+        "coordinates": [
+          26.199539,
+          62.777753
+        ],
+        "type": "Point"
+      },
+      "id": "country.12473357386425650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q258",
+        "short_code": "za",
+        "place_name": "South Africa",
+        "types": [
+          "activity"
+        ],
+        "summary": "Stayed in a yurt in safari park saw lovely elephants, interesting activities available.",
+        "date": 821232000
+      },
+      "geometry": {
+        "coordinates": [
+          23.91371,
+          -28.378272
+        ],
+        "type": "Point"
+      },
+      "id": "country.13290890257841840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q38",
+        "short_code": "it",
+        "place_name": "Italy",
+        "types": [
+          "view",
+          "activity",
+          "food"
+        ],
+        "summary": "I found a wonderful pizza restaurant and a lovely shop that sells Japanese import homewear in Rome",
+        "date": 1550620800
+      },
+      "geometry": {
+        "coordinates": [
+          12.646361,
+          42.504153
+        ],
+        "type": "Point"
+      },
+      "id": "country.18258463351519910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q142",
+        "short_code": "fr",
+        "place_name": "France",
+        "types": [
+          "view",
+          "activity"
+        ],
+        "summary": "I went to a hairdresser in Paris and changed hair colour to red!",
+        "date": 1041984000
+      },
+      "geometry": {
+        "coordinates": [
+          2.618786,
+          47.824904
+        ],
+        "type": "Point"
+      },
+      "id": "country.19008108158641660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q865",
+        "short_code": "tw",
+        "place_name": "Taiwan",
+        "types": [
+          "food",
+          "activity"
+        ],
+        "summary": "Dian Shui Lou in Taiwan does great Shoronpo",
+        "date": 915926400
+      },
+      "geometry": {
+        "coordinates": [
+          120.930229,
+          23.777977
+        ],
+        "type": "Point"
+      },
+      "id": "country.590167737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q334",
+        "short_code": "sg",
+        "place_name": "Singapore",
+        "types": [
+          "food"
+        ],
+        "summary": "Just a nice place to go out and have food - it's not my most favourite place....",
+        "date": 915408000
+      },
+      "geometry": {
+        "coordinates": [
+          103.808052,
+          1.351616
+        ],
+        "type": "Point"
+      },
+      "id": "country.6538037389536600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q881",
+        "short_code": "vn",
+        "place_name": "Vietnam",
+        "types": [
+          "activity",
+          "food"
+        ],
+        "summary": "Lovely vietnamese restaurants, ate frogs for the first time.... Interesting view from a boat in mekong river",
+        "date": 852508800
+      },
+      "geometry": {
+        "coordinates": [
+          108.339537,
+          14.315424
+        ],
+        "type": "Point"
+      },
+      "id": "country.9472354165536500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q884",
+        "short_code": "kr",
+        "place_name": "South Korea",
+        "types": [
+          "food"
+        ],
+        "summary": "Fantastic selection of Korean food, my favourites are pajeon and bibimbab",
+        "date": 852508800
+      },
+      "geometry": {
+        "coordinates": [
+          128.168944,
+          36.536236
+        ],
+        "type": "Point"
+      },
+      "id": "country.9899959762651680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Marrakech-Medina, Marrakesh, Marrakesh-Safi, Morocco",
+        "types": [
+          "food",
+          "activity"
+        ],
+        "summary": "Interesting cultural experience in Marrakech-Medina and seafood is great",
+        "date": 852508800
+      },
+      "geometry": {
+        "coordinates": [
+          -7.99,
+          31.63
+        ],
+        "type": "Point"
+      },
+      "id": "locality.12119084059950320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "Kilbaha Middle, Newtownsandes, Kerry, Ireland",
+        "types": [
+          "view",
+          "activity"
+        ],
+        "summary": "Absolutely amazing view despite the usual wet weather",
+        "date": 978739200
+      },
+      "geometry": {
+        "coordinates": [
+          -9.32,
+          52.48
+        ],
+        "type": "Point"
+      },
+      "id": "locality.9270993387916670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q956",
+        "place_name": "Beijing Shi, China",
+        "types": [
+          "activity"
+        ],
+        "summary": "Studied in a school as an exchange student....was not the best place for view, but interesting cultural experience",
+        "date": 757555200
+      },
+      "geometry": {
+        "coordinates": [
+          116.39139,
+          39.905
+        ],
+        "type": "Point"
+      },
+      "id": "place.11643701859936750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q140075",
+        "place_name": "Gold Coast, Queensland, Australia",
+        "types": [
+          "view",
+          "activity"
+        ],
+        "summary": "Breathtaking view of natural water beach",
+        "date": 883958400
+      },
+      "geometry": {
+        "coordinates": [
+          153.4146,
+          -28.0024
+        ],
+        "type": "Point"
+      },
+      "id": "place.12294497843533720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1489",
+        "short_code": "MX-CMX",
+        "place_name": "Mexico City, Mexico",
+        "types": [
+          "view",
+          "activity"
+        ],
+        "summary": "Amazing view of pyramids, interesting cultural experience in downtown",
+        "date": 821318400
+      },
+      "geometry": {
+        "coordinates": [
+          -99.14556,
+          19.41944
+        ],
+        "type": "Point"
+      },
+      "id": "place.12541599803673840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q60",
+        "place_name": "New York, New York, United States",
+        "types": [
+          "view",
+          "activity"
+        ],
+        "summary": "Broadway, shops, cafes, pubs and MOMA, great experiences",
+        "date": 1073865600
+      },
+      "geometry": {
+        "coordinates": [
+          -73.9808,
+          40.7648
+        ],
+        "type": "Point"
+      },
+      "id": "place.15278078705964500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q1156",
+        "place_name": "Mumbai, Maharashtra, India",
+        "types": [
+          "food",
+          "activity"
+        ],
+        "summary": "First time I found out British Indian is not authentic Indian food!",
+        "date": 820454400
+      },
+      "geometry": {
+        "coordinates": [
+          72.83333,
+          18.96667
+        ],
+        "type": "Point"
+      },
+      "id": "place.15437616154314490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q39450",
+        "place_name": "Anchorage, Alaska, United States",
+        "types": [
+          "view",
+          "activity",
+          "food"
+        ],
+        "summary": "Went on a dog sled, felt sorry for the dogs, but they were great and cute. Lovely Sushi too",
+        "date": 820454400
+      },
+      "geometry": {
+        "coordinates": [
+          -149.8949,
+          61.2163
+        ],
+        "type": "Point"
+      },
+      "id": "place.19268916718032980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q8646",
+        "short_code": "hk",
+        "place_name": "Hong Kong",
+        "types": [
+          "food",
+          "activity"
+        ],
+        "summary": "Lived here for 4 years, my faviourite is victoria peak",
+        "date": 789004800
+      },
+      "geometry": {
+        "coordinates": [
+          114.15861,
+          22.27833
+        ],
+        "type": "Point"
+      },
+      "id": "place.2317385864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q72",
+        "place_name": "Zürich, Zürich, Switzerland",
+        "types": [
+          "view"
+        ],
+        "summary": "Visited museums and walked around the lovely town. Food wasn't that great, but icecream was nice!",
+        "date": 852336000
+      },
+      "geometry": {
+        "coordinates": [
+          8.54,
+          47.37861
+        ],
+        "type": "Point"
+      },
+      "id": "place.7331654920221570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q37100",
+        "place_name": "Auckland, Auckland, New Zealand",
+        "types": [
+          "view",
+          "activity"
+        ],
+        "summary": "Tried sky diving for the first and the last time.... amazing country side",
+        "date": 915667200
+      },
+      "geometry": {
+        "coordinates": [
+          174.78333,
+          -36.85
+        ],
+        "type": "Point"
+      },
+      "id": "place.8719945336241010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q727",
+        "place_name": "Amsterdam, North Holland, Netherlands",
+        "types": [
+          "view",
+          "activity"
+        ],
+        "summary": "Great museums and inte4resting cultural experiences, nice walk by the canal",
+        "date": 947376000
+      },
+      "geometry": {
+        "coordinates": [
+          4.9,
+          52.378
+        ],
+        "type": "Point"
+      },
+      "id": "place.9718548927723970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q122723",
+        "short_code": "JP-27",
+        "place_name": "Osaka, Japan",
+        "types": [
+          "view",
+          "activity",
+          "food"
+        ],
+        "summary": "Last time I went to Osaka is to visit my family in 2018 summer, it was HOT....",
+        "date": 1515369600
+      },
+      "geometry": {
+        "coordinates": [
+          135.52,
+          34.68639
+        ],
+        "type": "Point"
+      },
+      "id": "region.10323422976964610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q13786",
+        "short_code": "PH-CEB",
+        "place_name": "Cebu, Philippines",
+        "types": [
+          "view"
+        ],
+        "summary": "Lovely private beach by a hotel and blue and clear water",
+        "date": 947116800
+      },
+      "geometry": {
+        "coordinates": [
+          123.75,
+          10.31667
+        ],
+        "type": "Point"
+      },
+      "id": "region.12607257693863500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wikidata": "Q4648",
+        "place_name": "Bali, Indonesia",
+        "types": [
+          "view",
+          "activity"
+        ],
+        "summary": "Lovely beach and relaxing atmosphere",
+        "date": 884563200
+      },
+      "geometry": {
+        "coordinates": [
+          115.13833,
+          -8.36917
+        ],
+        "type": "Point"
+      },
+      "id": "region.9012896814698400"
+    }
+  ],
+  "type": "FeatureCollection"
+}

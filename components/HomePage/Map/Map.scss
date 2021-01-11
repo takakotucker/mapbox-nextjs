@@ -1,0 +1,57 @@
+@import "../../../theme/variables.scss";
+
+.MapContainer {
+    position: relative;
+    display: flex;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    #map-box {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+    } 
+  }
+
+  .MapboxglMap {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    height: 800px !important;
+    width: 100%;
+ }
+
+ .LocatiionsListContainer {
+    position: absolute;
+    height: 100%;
+    width: 300px;
+    top: 150px;
+    left: 0;
+    z-index: 99999;
+    background: rgba(255,255,255, 0.7);
+    padding: 0 20px;
+    overflow: hidden;
+    overflow-y: scroll;
+ }
+ 
+ .NavigationContainer {
+    position: absolute;
+    top: 150px;
+    left: 300px;
+    padding: 20px;
+    z-index: 99999;
+ }
+
+ .NavigationItem {
+    padding: 10px; 
+    background-color: white;
+    margin-right: 10px;
+    color: white;
+    border-radius: 10px;
+
+    &:hover {
+      background-color: #dfdfdf;
+    }
+ } 

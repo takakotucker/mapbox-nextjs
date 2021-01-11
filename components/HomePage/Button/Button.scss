@@ -1,0 +1,16 @@
+@import '../../../theme/variables.scss';
+
+.ButtonContainer {
+
+  .NavigationItem {
+    padding: 10px; 
+    background-color: white;
+    margin-right: 10px;
+    color: white;
+    border-radius: 10px;
+
+    &:hover {
+      background-color: #dfdfdf;
+    }
+ } 
+}
